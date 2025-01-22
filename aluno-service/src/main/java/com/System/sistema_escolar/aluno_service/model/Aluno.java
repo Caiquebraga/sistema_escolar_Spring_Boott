@@ -36,14 +36,14 @@ public class Aluno {
         return nome;
     }
 
-    public void setNome(long id){
+    public void setNome(String nome){
         this.nome = nome;
     }
     public String getEmail(){
         return email;
     }
 
-    public void setEmail(long id){
+    public void setEmail(String email){
         this.email = email;
     }
 
