@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/aluno-service.iml" filepath="$PROJECT_DIR$/.idea/aluno-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aluno-service/aluno-service.iml" filepath="$PROJECT_DIR$/aluno-service/aluno-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sistema_escolar_Spring_Boott.iml" filepath="$PROJECT_DIR$/.idea/sistema_escolar_Spring_Boott.iml" />
     </modules>
   </component>
 </project>
